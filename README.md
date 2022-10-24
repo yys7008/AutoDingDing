@@ -1,4 +1,4 @@
-## ⏰ DingDing-Automatic-Clock-in
+## ⏰ AutoDingDing
 
 <img width="796" src="https://user-images.githubusercontent.com/49583943/138620009-32d16b4a-d38b-4cb7-9650-db7f45f14520.png"/>
 
