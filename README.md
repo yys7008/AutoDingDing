@@ -1086,8 +1086,6 @@ function attendKaoqin(){
 
 </blockquote>
 
-相关项目：[996 薪资计算助手](https://github.com/georgehuan1994/996-Salary-Calculator)
-
 ---
 
     如果觉得还不错的话，就点击右上角, 给我个Star ⭐️ 鼓励一下我吧~
