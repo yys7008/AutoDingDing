@@ -6,13 +6,13 @@
  * @URL: https://github.com/georgehuan1994/DingDing-Automatic-Clock-in
  */
 
-const ACCOUNT = "钉钉账号"
-const PASSWORD = "钉钉密码"
+const ACCOUNT = "15333518894"
+const PASSWORD = "zxmyzy7008"
 
 const QQ =              "用于接收打卡结果的QQ号"
 const EMAILL_ADDRESS =  "用于接收打卡结果的邮箱地址"
 const SERVER_CHAN =     "Server酱发送密钥"
-const PUSH_DEER =       "PushDeer发送密钥"
+const PUSH_DEER =       "eb34623545a048c6bc1b9661f3df187c"
 
 const PUSH_METHOD = {QQ: 1, Email: 2, ServerChan: 3, PushDeer: 4}
 
